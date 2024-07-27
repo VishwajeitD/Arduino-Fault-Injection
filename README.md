@@ -85,3 +85,6 @@ The voltage glitch attack successfully demonstrates the vulnerabilities in embed
 Special thanks to Dr. Faruk Kazi and Sushant Mane for their guidance and support throughout this project.
 text
 
+## 🎥 Animation
+
+![Beware](https://tenor.com/bopcc.gif)
