@@ -86,5 +86,4 @@ Special thanks to Dr. Faruk Kazi and Sushant Mane for their guidance and support
 text
 
 ## 🎥 Animation
-
-![Beware](https://tenor.com/bopcc.gif)
+![Beware](https://tenor.com/sha05R97Kve.gif)
