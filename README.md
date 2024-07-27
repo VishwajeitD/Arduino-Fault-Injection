@@ -35,11 +35,15 @@ The challenge is to capture a secret flag hidden in the firmware running on the 
 
 ### 🖼️ Hardware Photo
 
-![Hardware Setup](images/image.png)
+<div align="center">
+  <img src="images/image.png" alt="Hardware Setup" width="600" />
+</div>
 
 ### 📐 Schematics
 
-![Schematic Diagram](images/image1.png)
+<div align="center">
+  <img src="images/image1.png" alt="Hardware Setup" width="600" />
+</div>
 
 ## 📝 Steps to Recreate
 
@@ -76,9 +80,14 @@ The glitch is repeated 300 times, resulting in a total time of:
       [1×10^(−8)×300=0.000003s=3μs]
 ## **📊 Observation & Conclusion**
 The voltage glitch attack successfully demonstrates the vulnerabilities in embedded systems, highlighting potential weaknesses in their design or implementation.
-![Oscilloscope](images/image3.png)
 
-![Output](images/image2.png)
+<div align="center">
+  <img src="images/image3.png" alt="Hardware Setup" width="600" />
+</div>
+<div align="center">
+  <img src="images/image2.png" alt="Hardware Setup" width="600" />
+</div>
+
 ## 🎉 **Acknowledgments**
 Special thanks to Dr. Faruk Kazi and Sushant Mane for their guidance and support throughout this project.
 text
