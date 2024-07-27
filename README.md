@@ -90,7 +90,7 @@ The voltage glitch attack successfully demonstrates the vulnerabilities in embed
 
 ## 🎉 **Acknowledgments**
 Special thanks to Dr. Faruk Kazi and Sushant Mane for their guidance and support throughout this project.
-text
+
 
 
 
